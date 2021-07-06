@@ -96,6 +96,8 @@ this content:
 
   ![Trigger go.mod changes manually](03%20-%20load%20go%20mod%20changes%20manually/03%20-%20load%20go%20mod%20changes%20manually%20-%202.png)
 
+  [Demo](03%20-%20load%20go%20mod%20changes%20manually/go.mod)
+
   ### Better handling of Go versions from go.mod files
 
   04. Until now, the version Go SDK used in the project was the one that GoLand took into account when performing inspections
